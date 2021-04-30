@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything in my area of specialization
 - 📫 How to reach me: ogedegbemaurice@gmail.com
+- How to read from me: http://ogedegbemaurice.pythonanywhere.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a continuous learner
 -->
